@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Harun</string>
+    <string name="password">Harun</string>
+    <string name="login">Login</string>
+    <string name="mondongo">MONDONGO</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
